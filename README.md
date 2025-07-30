@@ -133,6 +133,12 @@ After running extensive SQL queries on the Spotify dataset and analyzing metrics
 - **Video Impact:** Tracks with official_video = TRUE gained significantly more views and likes on YouTube, confirming the impact of video presence on visibility.
 - **Spotify vs YouTube Disparity:** Several tracks performed better on Spotify in terms of streams than on YouTube views—highlighting platform-based audience behavior.
 
+## Conclusion
+- The spotify dataset provides valuable insights into music consumption trends and artist performance.
+- **SQL analytics combined with indexing** for optimization allows deep, efficient exploration of large music datasets.
+- Creating indexes on high-frequenccy columns like `artist` significantly improves query speed, especially in repeated analytical operations.
+- This project demonstrated not only advanced SQL quering skills (including CTEs and Window functions) but also the ability to extract real-world business insights that could benefit marketing teams, music platforms or artist themselves.
+
 ### 📫 Let's Connect on [LinkedIn](https://www.linkedin.com/in/sneha-gawde)
 
 
